@@ -1,0 +1,29 @@
+#tblObservations tr:hover td,
+#tblObsSummary tr:hover td,
+#tblDeclaraciones tr:hover td {
+    background-color: #269abc;
+    color: #fff;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.obs-background {
+    background-color: #3F9683;
+}
+
+.chat-message {
+    background-color: #E0ECE8;
+    color: #000;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#mdlObs {
+    color: #fff;
+    padding: 10px;
+}
+
+#divUploadedFiles a {
+    color: #fff;
+}

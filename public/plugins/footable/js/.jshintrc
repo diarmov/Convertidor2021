@@ -1,0 +1,66 @@
+{
+
+    "curly": false,
+
+    "eqeqeq": false,
+
+    "forin": false,
+
+    "indent": false,
+
+    "newcap": false,
+
+    "plusplus": false,
+
+    "quotmark": false,
+
+    "undef": false,
+
+    "unused": false,
+
+    "strict": true,
+
+    "trailing": false,
+
+    "maxparams": false,
+
+    "maxdepth": false,
+
+    "maxstatements": false,
+
+    "maxcomplexity": false,
+
+    "maxlen": false,
+
+
+
+    "eqnull": true,
+
+    "loopfunc": true,
+
+    "smarttabs": true,
+
+    "sub": true,
+
+    "browser": true,
+
+    "globals": {
+
+        "$": true,
+
+        "jquery": false,
+        "jQuery": false,
+
+        "moment": false
+    },
+
+
+    "node": true,
+
+
+
+    "white": false,
+
+    "esversion": 6
+
+}
